@@ -1,6 +1,6 @@
 .login {
   top: 0;
-  width: 100%;
+  width: 90%;
   bottom: 0;
   opacity: 1;
   z-index: 999;
@@ -132,10 +132,6 @@
   background: #048dcd;
 }
 
-.login .form-section a {
-  text-decoration: none;
-}
-
 .login .form-section p {
   font-size: 16px;
   color: #535353;
@@ -143,6 +139,6 @@
   margin-bottom: 0;
 }
 
-.login .form-section p a {
+.login .form-section p {
   color: #535353;
 }

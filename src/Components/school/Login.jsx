@@ -50,10 +50,7 @@ const Login = () => {
                   </div>
                 </form>
               </div>
-              <p>
-                Don't have an account?
-                <a href="#">Register here</a>
-              </p>
+              <p>Don't have an account?</p>
             </div>
           </div>
         </div>
